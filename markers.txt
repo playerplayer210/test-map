@@ -1,2 +1,2 @@
-Test=Hello world!,-4707,-548,
-Test=Hello world!,-4707,548,
+Test=Hello world!,-4707,-548
+Test=Hello world!,-4707,548
